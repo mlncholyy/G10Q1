@@ -31,7 +31,7 @@ body {
 /*header section*/
 .sub_page .brand_box {
   position: relative;
-  background-image: url(../images/purpleheader.png);
+  background-image: url(purpleheader.png);
   padding: 70px 100px;
   background-repeat: round;
   background-color: black;
